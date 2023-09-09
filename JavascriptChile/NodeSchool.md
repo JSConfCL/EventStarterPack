@@ -1,48 +1,29 @@
-hola
 # Nodeschool
 
-Nodeschool es una serie de eventos en los que se imparten talleres interactivos de Node.js y tecnologías relacionadas. La organización de un evento Nodeschool implica varias tareas críticas, cada una de las cuales se convierte en un ticket en Linear. Este apartado del documento detalla la lista de tickets requeridos para la efectiva planificación y ejecución de un evento Nodeschool, abarcando todos los aspectos desde el lugar del evento hasta las comunicaciones de marketing y la logística. Estos tickets aseguran una organización eficiente y contribuyen al éxito del evento.
+[Nodeschool](https://nodeschool.io/es/) ofrece talleres interactivos sobre Node.js y tecnologías relacionadas. Si estás planeando organizar un evento Nodeschool, aquí encontrarás una guía detallada que te ayudará en cada paso del proceso, garantizando un evento exitoso.
 
-**Presencial**
+## Organización Presencial
+- **Presentación:** Modificar y preparar.
+- **Lugar:** Designar un responsable y verificar disponibilidad.
+- **Fotografía:** Elegir un encargado.
+- **Mentores:** Designar un encargado, determinar cantidad y seleccionarlos.
+- **Comida y Bebidas:** Elegir un responsable, obtener un presupuesto y buscar patrocinadores.
+- **Check-in:** Designar un encargado para el registro de asistentes el día del evento.
 
-- Modificación de Presentación
-- Encargado de Lugar
-- Encargado de Fotografía
-- Encargado de Mentores
-- Cuantos mentores
-- Encargado de Comida/Líquidos
-- Encargado de Check in en evento
+## Página Web
+- **Eventos:** Añadir el evento en la página de Javascript Chile y modificar la página de Nodeschool Santiago.
+- **Creación de Evento:** Utilizar la plataforma Luma.
+- **Detalles:** Verificar el timeline, lugar y capacidad de asistentes.
 
-**Página**
+## Comunicaciones por Correo
+- **Previo al Evento:** Programar recordatorios una semana, un día y una hora antes.
+- **Post Evento:** Enviar un correo para recopilar feedback.
 
-- Agregar evento en Javascript Chile
-- Modificación de Página nodeschool Santiago
-- Hacer evento en luma
-- Verificación de Timeline del evento
-- Verificación de lugar
-- Verificación de cantidad de personas
+## Formularios
+- **Asistentes:** Crear formulario con preferencias de workshop y opciones de alimentación (QR incluido).
+- **Feedback:** Formulario post-evento para recopilar opiniones (QR incluido).
+- **Mentores:** Formulario de inscripción (QR incluido).
 
-**Correos**
-- Agregar Correo “Una semana antes del evento”
-- Agregar Correo “Un día antes del evento”
-- Agregar Correo “Un hora antes del evento”
-- Agregar Correo de Feedback
-
-**Logística**
-- Pedir fecha en lugar del evento
-- Pedir sponsor para comida
-- Presupuesto de Comida.
-- Selección de mentores
-
-**Formularios**
-- Formulario de preferencias de workshop y alimentación con QR
-- Formulario de feedback con QR
-- Formulario de inscripción de mentores con QR 
-
-**RSS**
-- Modificar gráfica evento nodeschool, Instagram/Twitter
-- Crear anuncio de evento (Instagram, twitter, linkedin)
-- Crear anuncio de evento se está realizando (Instagram, twitter, linkedin)
-- Crear anuncio de agradecimiento post evento (Instagram, twitter, linkedin)
-- Crear anuncio de “Dar a conocer el impacto del evento” (Instagram, twitter, linkedin)
-- Envío de imágenes de gráfica rss al encargado del lugar. (Instagram feed/insta, linkedin, facebook)
+## Redes Sociales (RSS)
+- **Anuncios:** Crear y publicar anuncios del evento, realización, agradecimiento y su impacto en plataformas como Instagram, Twitter y LinkedIn.
+- **Gráficos:** Modificar y enviar gráficos del evento al encargado del lugar. Las plataformas incluyen Instagram (feed e insta stories), LinkedIn y Facebook.
