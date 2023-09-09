@@ -1,0 +1,3 @@
+# Glosario de términos 
+
+- 
